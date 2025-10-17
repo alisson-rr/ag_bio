@@ -106,7 +106,7 @@ function App() {
         {/* Footer */}
         <div className="mt-12 sm:mt-16 text-center">
           <p className="text-charcoal/50 text-sm font-sans">
-            © 2024 Agenda Magnética. Todos os direitos reservados.
+            © 2025 Agenda Magnética. Todos os direitos reservados.
           </p>
         </div>
       </div>
